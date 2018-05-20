@@ -1,0 +1,6 @@
+projectKey=sonar:sonaretest
+serverUrl=http://localhost:9000
+serverVersion=6.7.3.38370
+dashboardUrl=http://localhost:9000/dashboard/index/sonar:sonaretest
+ceTaskId=AWN0_-cULGpCn3bqGnER
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWN0_-cULGpCn3bqGnER
